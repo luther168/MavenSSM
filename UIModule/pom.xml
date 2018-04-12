@@ -9,13 +9,13 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>App</artifactId>
+    <artifactId>UIModule</artifactId>
 
     <dependencies>
 
         <dependency>
             <groupId>cn.luo</groupId>
-            <artifactId>CoreModel</artifactId>
+            <artifactId>ModelModule</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
 
